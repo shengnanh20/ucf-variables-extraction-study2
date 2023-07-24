@@ -1,4 +1,5 @@
 # ucf-variables-extraction-study2
+This repo is used to extract triaging variables in the ASIST project.
 ## Requirements
 * pandas
 * numpy
